@@ -7,10 +7,10 @@ It is definitely challenging for people who are not familiar with python syntax 
 
 The content covered:
 
-Search
-Knowledge
-Uncertainty
-Optimization
-Learning
-Neural Networks
+Search <br />
+Knowledge <br />
+Uncertainty <br />
+Optimization <br />
+Learning <br />
+Neural Networks <br />
 Language
